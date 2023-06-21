@@ -55,7 +55,7 @@ end
 function delete_dependency!(p::PullObservable)
   p.dependency === nothing && return
   for observable in p.dependency.observables
-    filter!(!=(p), observable.dependents)
+    filter!(d -> d != p, observable.dependents)
   end
   p.dependency = nothing
   return
