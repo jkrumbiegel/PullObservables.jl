@@ -1,0 +1,13 @@
+name = "PullObservables"
+uuid = "3554aeba-a1de-4113-865a-2e5db6479442"
+authors = ["Julius Krumbiegel <julius.krumbiegel@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
