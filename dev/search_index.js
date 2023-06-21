@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = PullObservables","category":"page"},{"location":"#PullObservables","page":"Home","title":"PullObservables","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for PullObservables.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [PullObservables]","category":"page"},{"location":"#PullObservables.@valid-Tuple{Any, Vararg{Any}}","page":"Home","title":"PullObservables.@valid","text":"@valid expr exprs...\n\n\n\n\n\n","category":"macro"}]
+}
